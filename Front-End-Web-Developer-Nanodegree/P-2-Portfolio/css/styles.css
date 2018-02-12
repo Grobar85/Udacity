@@ -1,0 +1,50 @@
+body {
+    font-family: "Kavivanar", cursive;
+    color: #2d3c49;
+}
+
+
+.image {
+    padding-top: 10px;
+    max-height: 120px;
+}
+
+
+.name {
+    font-weight: 100;
+    font-size: 60px;
+}
+
+
+.subtitle {
+    font-weight: 400;
+    font-size: 30px;
+}
+
+
+.hr {
+    border-bottom: 4px solid #7d97ad;
+}
+
+
+.work-title {
+    font-weight: 400;
+    font-size: 38px;
+    color: #7d97ad;
+    padding-left: 2%;
+    margin-top: 4%;
+}
+
+
+.description-title {
+    font-weight: 400;
+    font-size: 38px;
+    margin-top: 5%;
+}
+
+
+.description-text {
+    font-weight: 100;
+    font-size: 16px;
+    color: #2d3c49;
+}
